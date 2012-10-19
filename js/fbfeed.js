@@ -4,7 +4,7 @@ FbFeed.init = function() {
   Parse.initialize("yRiLmG1WkMXpjfkp1oAjltVzPCkST5Yiv0ErLlDI", "0vt3pMEefnXGAU5JYGGrwmB3mOXE7Y4TfuSFVA3s");
   Parse.FacebookUtils.init({
     appId      : '400503560015485', // App ID
-    channelUrl : '//coshx.github.com/fbfeed/channel.html', // Channel File
+    channelUrl : '//danepstein.github.com/fbfeed/channel.html', // Channel File
     status     : true, // check login status
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true  // parse XFBML
